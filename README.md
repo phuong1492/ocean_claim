@@ -10,3 +10,9 @@
 
 ## Chạy script
 - `node index.js`
+
+
+# Gửi Ocean
+
+- Thay địa chỉ ví muốn chuyển ocean đến ở recipient trong file sendOcean.js
+- `node sendOcean.js`

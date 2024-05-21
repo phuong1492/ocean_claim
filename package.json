@@ -7,9 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "request": "2.88.2",
+    "@mysten/sui.js": "0.37.1",
+    "@scallop-io/sui-kit": "^0.45.0",
     "crypto-js": "4.1.1",
-    "@mysten/sui.js": "0.37.1"
+    "request": "2.88.2"
   },
   "keywords": [],
   "author": "",
